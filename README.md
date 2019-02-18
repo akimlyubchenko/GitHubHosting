@@ -1,0 +1,2 @@
+# GitHubHosting
+Example site hosting
